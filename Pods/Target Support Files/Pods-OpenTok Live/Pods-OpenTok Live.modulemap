@@ -1,0 +1,6 @@
+framework module Pods_OpenTok_Live {
+  umbrella header "Pods-OpenTok Live-umbrella.h"
+
+  export *
+  module * { export * }
+}
